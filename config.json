@@ -1,0 +1,13 @@
+{
+  "Roblox": {
+    "Cookies": ".ROBLOSECURITY"
+  },
+  "Discord": {
+    "Token": "Bot_Token", 
+    "Channel": "Channel_ID" 
+  },
+  "Settings": {
+    "Web": true, 
+    "Price": [10, 30, 40] 
+  }
+}
